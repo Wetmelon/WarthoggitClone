@@ -2425,7 +2425,7 @@
   (gr_line (start 130.81 83.82) (end 100.33 83.82) (layer Edge.Cuts) (width 0.15))
   (gr_line (start 130.81 34.29) (end 130.81 83.82) (layer Edge.Cuts) (width 0.15))
   (gr_line (start 100.33 34.29) (end 130.81 34.29) (layer Edge.Cuts) (width 0.15))
-  (gr_text 2.5mm (at 121.92 68.326) (layer F.SilkS) (tstamp 5C4242A3)
+  (gr_text 2.5mm (at 123.19 68.326) (layer F.SilkS) (tstamp 5C4242A3)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (gr_text "Warthoggit Clone\nWetmelon\nDec 27, 2018" (at 114.935 45.72) (layer B.SilkS)
