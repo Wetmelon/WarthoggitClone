@@ -1,6 +1,10 @@
 # WarthoggitClone
 Clone of the Warthoggit Joystick PCB
 
+* Octopart BOM: https://octopart.com/bom-tool/HYrWh7Pe
+* OSHPark PCB: https://oshpark.com/shared_projects/x2CpRCvp
+* Gerblook: http://gerblook.org/pcb/NEAhkPDx7kaQgrBpLWPrQZ
+
 ----
 
 ## Original Reddit Post:
